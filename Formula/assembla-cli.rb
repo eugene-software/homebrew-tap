@@ -7,7 +7,7 @@ class AssemblaCli < Formula
   sha256 "f99bf3a12fd674255c0f91a3556fc54915dd093c9d49a0f5b5598370207bddf0"
   license "MIT"
 
-  depends_on "python@3"
+  depends_on "python@3.13"
 
   resource "click" do
     url "https://files.pythonhosted.org/packages/57/75/31212c6bf2503fdf920d87fee5d7a86a2e3bcf444984126f13d8e4016804/click-8.3.2.tar.gz"
