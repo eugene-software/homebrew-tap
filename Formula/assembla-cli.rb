@@ -2,7 +2,7 @@ class AssemblaCli < Formula
   desc "CLI tool for Assembla ticket management"
   homepage "https://github.com/eugene-software/assembla-cli"
   url "https://github.com/eugene-software/assembla-cli/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "c4707f815e5614f757db2c49c9c14c5f4f6fed240af5d3c23ed682fe4966d8b1"
+  sha256 "d8f77f4e2151811c919bed452c99979554400a3ea49882ca615797f64fae8cbd"
   license "MIT"
 
   depends_on "go" => :build
